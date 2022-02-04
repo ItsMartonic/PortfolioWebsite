@@ -4,6 +4,48 @@
     padding: 20px;
 }
 
+/* Text Title - Main */
+.text-title-main {
+    color: var(--text-title-main);
+    font-size: 4vw;
+    font-weight: 750;
+}
+
+/* Text Title - Other */
+.text-title-other {
+    color: var(--text-title-other);
+    font-size: 2.5vw;
+    font-weight: 650;
+}
+
+/* Text Header */
+.text-header {
+    color: var(--text-header);
+    font-size: 2.5vw;
+    font-weight: 750;
+}
+
+/* Text Description */
+.text-description {
+    color: var(--text-description);
+    font-size: 1.5vw;
+    font-weight: 500;
+}
+
+/* Text Flexbox */
+.text-flexbox {
+    color: var(--text-flexbox);
+    font-size: 1vw;
+    font-weight: 500;
+}
+
+/* Text Button */
+.text-button {
+    color: var(--text-button);
+    font-size: 1vw;
+    font-weight: 600;
+}
+
 /* Text Footer */
 .text-footer {
     color: var(--text-footer);

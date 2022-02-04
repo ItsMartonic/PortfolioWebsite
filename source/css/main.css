@@ -6,6 +6,12 @@
     --website-dark: rgb(10, 15, 25);
 
     /* Text */
+    --text-navigation-main: rgb(235, 235, 235);
+    --text-navigation-hover: rgb(30, 144, 255);
+    --text-title-main: rgb(235, 235, 235);
+    --text-title-other: rgb(235, 235, 235);
+    --text-header: rgb(235, 235, 235);
+    --text-description: rgb(235, 235, 235);
     --text-footer: rgb(235, 235, 235);
 
     /* Preloader */

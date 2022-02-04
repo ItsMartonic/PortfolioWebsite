@@ -1,6 +1,6 @@
 /* Header Section */
 #header-section {
-    background-image: url("source/images/header.png");
+    background-image: url("../images/header.png");
     background-size: cover;
     background-color: var(--website-dark);
     box-shadow: inset 0px 0px 25px 0px var(--website-background);
