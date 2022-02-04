@@ -1,0 +1,9 @@
+/* Thematic Break */
+.thematic-break {
+    display: block;
+    height: 3px;
+    border: 0;
+    border-top: 3px solid var(--thematic-break);
+    margin: 2em 0;
+    padding: 0; 
+}
