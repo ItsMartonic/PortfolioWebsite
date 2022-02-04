@@ -1,3 +1,3 @@
 # ✨ Portfolio Website
 
-View [Here](https://itsmartonic.github.io/PortfolioWebsite/)
+View Live Version [Here](https://itsmartonic.github.io/PortfolioWebsite/)

@@ -1,0 +1,12 @@
+/* Text Center */
+.text-center {
+    text-align: center;
+    padding: 20px;
+}
+
+/* Text Footer */
+.text-footer {
+    color: var(--text-footer);
+    font-size: 1vw;
+    font-weight: 500;
+}

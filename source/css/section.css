@@ -1,0 +1,43 @@
+/* Header Section */
+#header-section {
+    background-image: url("source/images/header.png");
+    background-size: cover;
+    background-color: var(--website-dark);
+    box-shadow: inset 0px 0px 25px 0px var(--website-background);
+    padding-bottom: 25px;
+}
+
+/* Header Container */
+.header-container {
+    margin: auto;
+    width: 50%;
+    padding: 15px;
+}
+
+/* Body Section */
+#body-section {
+    background-color: var(--website-bright);
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+/* Body Container */
+.body-container {
+    margin: auto;
+    width: 50%;
+    padding: 15px;
+}
+
+/* Footer Section */
+#footer-section {
+    background-color: var(--website-dark);
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+/* Footer Container */
+.footer-container {
+    margin: auto;
+    width: 50%;
+    padding: 15px;
+}
