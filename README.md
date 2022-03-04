@@ -1,5 +1,5 @@
-# 🦘 Portfolio Website
+## 🦘 Portfolio Website
 
-#### 🔴 Live Version - [Here](https://itsmartonic.github.io/PortfolioWebsite/)
+🔴 Live Version - [Here](https://itsmartonic.github.io/PortfolioWebsite/)
 
-#### 📝 Created By Martin Zurek
+📝 Created By Martin Zurek
