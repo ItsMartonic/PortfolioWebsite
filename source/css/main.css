@@ -1,25 +1,28 @@
 /* COLORS */
 
 :root{
-    --website-background: rgb(10, 15, 25);
     --website-bright: rgb(15, 20, 30);
     --website-dark: rgb(10, 15, 25);
 
     --preloader-background: rgb(10, 15, 25);
     --preloader-color: rgb(30, 144, 255);
 
+    --scrollbar-track: rgb(255, 255, 255);
+    --scrollbar-thumb: rgb(155, 155, 155);
+    --scrollbar-hover: rgb(85, 85, 85);
+
     --text-background: rgb(235, 235, 235);
     --text-hover: rgb(30, 144, 255);
 }
 
-/* BASICS */
+/* FORMATTING */
 
 html {
     scroll-behavior: smooth;
 }
 
 body {
-    background-color: var(--website-background);
+    background-color: var(--website-dark);
     font-family: 'IBM Plex Sans Condensed';
     color: var(--text-background);
     overflow: auto;
@@ -62,4 +65,41 @@ body {
     to{
         transform: rotate(360deg);
     }
+}
+
+/* SCROLLBAR */
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--scrollbar-track);
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--scrollbar-thumb);
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--scrollbar-hover);
+}
+
+/* SECTIONS */
+
+#header-section {
+    background-color: var(--website-dark);
+    padding-bottom: 25px;
+}
+
+#body-section {
+    background-color: var(--website-bright);
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+#footer-section {
+    background-color: var(--website-dark);
+    padding-top: 25px;
+    padding-bottom: 25px;
 }
