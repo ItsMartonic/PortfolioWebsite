@@ -103,3 +103,32 @@ body {
     padding-top: 25px;
     padding-bottom: 25px;
 }
+
+/* FOOTER */
+
+.footer-container {
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 15px;
+}
+
+.footer-text {
+    color: var(--text-background);
+    font-size: 1vw;
+    font-weight: 500;
+}
+
+.footer-padding {
+    padding: 0;
+}
+
+.footer-icon-list {
+    display: inline-block;
+    margin: 5px;
+    padding: 0;
+}
+
+.footer-icon {
+    height: 65px;
+}
