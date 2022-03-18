@@ -104,6 +104,15 @@ body {
     padding-bottom: 25px;
 }
 
+/* BODY */
+
+.body-container {
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 15px;
+}
+
 /* FOOTER */
 
 .footer-container {
@@ -130,5 +139,5 @@ body {
 }
 
 .footer-icon {
-    height: 65px;
+    height: 50px;
 }
