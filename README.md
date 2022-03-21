@@ -3,5 +3,5 @@
 </h1>
 
 <p align="center">
-    <b>[View Live Version](https://itsmartonic.github.io/PortfolioWebsite/)</b>
+    [View Live Version](https://itsmartonic.github.io/PortfolioWebsite/)
 </p>
