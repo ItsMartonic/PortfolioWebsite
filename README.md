@@ -3,5 +3,5 @@
 </h1>
 
 <p align="center">
-    [View Live Version](https://itsmartonic.github.io/PortfolioWebsite/)
+    <a href="https://itsmartonic.github.io/PortfolioWebsite/">View Live Version</a>
 </p>
