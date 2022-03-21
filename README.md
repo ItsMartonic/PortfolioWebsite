@@ -2,5 +2,6 @@
     <b>⭐ Portfolio Website</b>
 </h1>
 
-
-## [View Live Version](https://itsmartonic.github.io/PortfolioWebsite/)
+<p align="center">
+    <b>[View Live Version](https://itsmartonic.github.io/PortfolioWebsite/)</b>
+</p>
