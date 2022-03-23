@@ -11,12 +11,12 @@
 </h1>
 
 <p align="center">
+
     - [ ] Audio Page
     - [ ] Video Page
     - [ ] Animation Page
     - [ ] Spreadsheets Page
     - [ ] Databases Page
-</p>
 
 <h1 align="center">
     <b>💡 Suggestions</b>
