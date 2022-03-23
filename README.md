@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-    <a href="https://itsmartonic.github.io/PortfolioWebsite/">View Live Version</a>
+    <b><a href="https://itsmartonic.github.io/PortfolioWebsite/">View Live Version</a></b>
 </p>
 
 <h1 align="center">
