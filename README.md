@@ -11,8 +11,7 @@
 </h1>
 
 <p align="center">
-    <a href="https://github.com/ItsMartonic/PortfolioWebsite/issues">Text</a>
-    Text Goes Here
+    If you would like to help improve this portfolio website, please submit a Pull Request <a href="https://github.com/ItsMartonic/PortfolioWebsite/pulls">here</a>!
 </p>
 
 <h1 align="center">
