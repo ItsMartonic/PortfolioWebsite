@@ -131,14 +131,12 @@ body {
 
 .text-title-main {
     color: var(--text-background);
-    font-size: 4vw;
-    font-weight: 750;
+    font-size: 65px;
 }
 
 .text-title-other {
     color: var(--text-background);
-    font-size: 2.5vw;
-    font-weight: 650;
+    font-size: 35px;
 }
 
 .navigation-header {
@@ -172,14 +170,12 @@ ul {
     text-align: center;
     list-style: none;
     display: block;
-    font-size: 1vw;
-    font-weight: 500;
+    font-size: 20px;
 	transition: 0.3s;
 }
 
 .navigation-main a:hover {
 	color: var(--text-hover);
-    font-weight: 550;
 }
 
 @media (min-width: 768px) {
@@ -210,8 +206,7 @@ ul {
 .body-container {
     text-align: center;
     color: var(--text-background);
-    font-size: 1vw;
-    font-weight: 500;
+    font-size: 17.5px;
     margin: auto;
     width: 50%;
     padding: 15px;
@@ -222,8 +217,7 @@ ul {
 .footer-container {
     text-align: center;
     color: var(--text-background);
-    font-size: 1vw;
-    font-weight: 500;
+    font-size: 12.5px;
     margin: auto;
     width: 50%;
     padding: 15px;
