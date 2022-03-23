@@ -11,6 +11,7 @@
 </h1>
 
 <p align="center">
+    <a href="https://github.com/ItsMartonic/PortfolioWebsite/issues">Text</a>
     Text Goes Here
 </p>
 
@@ -19,6 +20,7 @@
 </h1>
 
 <p align="center">
+    <a href="https://github.com/ItsMartonic/PortfolioWebsite/issues">Text</a>
     Text Goes Here
 </p>
 
