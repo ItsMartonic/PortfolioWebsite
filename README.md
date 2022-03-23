@@ -11,8 +11,8 @@
 </h1>
 
 <p align="center">
-    Audio
-    Video
+    * Audio
+    * Video
     Animation
     Spreadsheets
     Databases
