@@ -11,7 +11,7 @@
 </h1>
 
 <p align="center">
-    If you would like to help improve this portfolio website, please submit a Pull Request <a href="https://github.com/ItsMartonic/PortfolioWebsite/pulls">here</a>!
+    If you would like to help improve this portfolio website, please submit a Pull Request <b><a href="https://github.com/ItsMartonic/PortfolioWebsite/pulls">here</a></b>!
 </p>
 
 <h1 align="center">
@@ -19,7 +19,7 @@
 </h1>
 
 <p align="center">
-    Issues may be present on this portfolio website, if discovered please submit an Issue <a href="https://github.com/ItsMartonic/PortfolioWebsite/issues">here</a>!
+    Issues may be present on this portfolio website, if discovered please submit an Issue <b><a href="https://github.com/ItsMartonic/PortfolioWebsite/issues">here</a></b>!
 </p>
 
 <h1 align="center">
