@@ -19,13 +19,13 @@
 </h1>
 
 <p align="center">
-    Issues may be present on the portfolio website, if discovered please submit it as an Issue <a href="https://github.com/ItsMartonic/PortfolioWebsite/issues">here</a>!
+    Issues may be present on this portfolio website, if discovered please submit an Issue <a href="https://github.com/ItsMartonic/PortfolioWebsite/issues">here</a>!
 </p>
 
 <h1 align="center">
-    <b>📎 Final Notes</b>
+    <b>📎 Author</b>
 </h1>
 
 <p align="center">
-    Text Goes Here
+    This website was created by Martin.
 </p>
