@@ -10,12 +10,9 @@
     <b>📃 To Do List </b>
 </h1>
 
-
-    - [ ] Audio Page
-    - [ ] Video Page
-    - [ ] Animation Page
-    - [ ] Spreadsheets Page
-    - [ ] Databases Page
+<p align="center">
+    Audio, video, animation, spreadsheets and databases pages.
+</p>
 
 <h1 align="center">
     <b>💡 Suggestions</b>
