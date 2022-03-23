@@ -10,7 +10,6 @@
     <b>📃 To Do List </b>
 </h1>
 
-<p align="center">
 
     - [ ] Audio Page
     - [ ] Video Page
