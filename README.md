@@ -19,8 +19,7 @@
 </h1>
 
 <p align="center">
-    <a href="https://github.com/ItsMartonic/PortfolioWebsite/issues">Text</a>
-    Text Goes Here
+    Issues may be present on the portfolio website, if discovered please submit it as an Issue <a href="https://github.com/ItsMartonic/PortfolioWebsite/issues">here</a>!
 </p>
 
 <h1 align="center">
