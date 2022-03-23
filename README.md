@@ -21,3 +21,11 @@
 <p align="center">
     Text Goes Here
 </p>
+
+<h1 align="center">
+    <b>📎 Final Notes</b>
+</h1>
+
+<p align="center">
+    Text Goes Here
+</p>
