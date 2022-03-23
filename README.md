@@ -7,6 +7,18 @@
 </p>
 
 <h1 align="center">
+    <b>📃 To Do List </b>
+</h1>
+
+<p align="center">
+    Audio
+    Video
+    Animation
+    Spreadsheets
+    Databases
+</p>
+
+<h1 align="center">
     <b>💡 Suggestions</b>
 </h1>
 
