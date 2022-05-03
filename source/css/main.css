@@ -1,11 +1,11 @@
 /* COLORS */
 
 :root{
-    --website-bright: rgb(15, 20, 30);
-    --website-dark: rgb(10, 15, 25);
+    --website-bright: rgb(20, 20, 30);
+    --website-dark: rgb(15, 15, 25);
 
-    --preloader-background: rgb(10, 15, 25);
-    --preloader-color: rgb(30, 144, 255);
+    --preloader-background: rgb(15, 15, 25);
+    --preloader-color: rgb(255, 100, 5);
 
     --scrollbar-track: rgb(255, 255, 255);
     --scrollbar-thumb: rgb(155, 155, 155);
@@ -14,7 +14,7 @@
     --thematic-break: rgb(255, 255, 255);
 
     --text-background: rgb(235, 235, 235);
-    --text-hover: rgb(30, 144, 255);
+    --text-hover: rgb(255, 100, 5);
 }
 
 /* FORMATTING */
