@@ -1,11 +1,11 @@
 /* COLORS */
 
 :root{
-    --website-bright: rgb(15, 20, 30);
-    --website-dark: rgb(10, 15, 25);
+    --website-bright: rgb(20, 20, 30);
+    --website-dark: rgb(15, 15, 25);
 
-    --preloader-background: rgb(10, 15, 25);
-    --preloader-color: rgb(30, 144, 255);
+    --preloader-background: rgb(15, 15, 25);
+    --preloader-color: rgb(255, 100, 5);
 
     --scrollbar-track: rgb(255, 255, 255);
     --scrollbar-thumb: rgb(155, 155, 155);
@@ -14,7 +14,7 @@
     --thematic-break: rgb(255, 255, 255);
 
     --text-background: rgb(235, 235, 235);
-    --text-hover: rgb(30, 144, 255);
+    --text-hover: rgb(255, 100, 5);
 }
 
 /* FORMATTING */
@@ -131,14 +131,12 @@ body {
 
 .text-title-main {
     color: var(--text-background);
-    font-size: 4vw;
-    font-weight: 750;
+    font-size: 65px;
 }
 
 .text-title-other {
     color: var(--text-background);
-    font-size: 2.5vw;
-    font-weight: 650;
+    font-size: 35px;
 }
 
 .navigation-header {
@@ -172,14 +170,12 @@ ul {
     text-align: center;
     list-style: none;
     display: block;
-    font-size: 1vw;
-    font-weight: 500;
+    font-size: 20px;
 	transition: 0.3s;
 }
 
 .navigation-main a:hover {
 	color: var(--text-hover);
-    font-weight: 550;
 }
 
 @media (min-width: 768px) {
@@ -210,8 +206,7 @@ ul {
 .body-container {
     text-align: center;
     color: var(--text-background);
-    font-size: 1vw;
-    font-weight: 500;
+    font-size: 17.5px;
     margin: auto;
     width: 50%;
     padding: 15px;
@@ -222,8 +217,7 @@ ul {
 .footer-container {
     text-align: center;
     color: var(--text-background);
-    font-size: 1vw;
-    font-weight: 500;
+    font-size: 12.5px;
     margin: auto;
     width: 50%;
     padding: 15px;
