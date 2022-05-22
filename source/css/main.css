@@ -212,6 +212,11 @@ ul {
     padding: 15px;
 }
 
+.text-body-main {
+    color: var(--text-background);
+    font-size: 30px;
+}
+
 /* FOOTER */
 
 .footer-container {
