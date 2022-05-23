@@ -1,7 +1,8 @@
 /* COLORS */
 
 :root{
-    --website-bright: rgb(20, 20, 30);
+    --website-light: rgb(30, 30, 40);
+    --website-medium: rgb(20, 20, 30);
     --website-dark: rgb(15, 15, 25);
 
     --preloader-background: rgb(15, 15, 25);
@@ -109,7 +110,7 @@ body {
 }
 
 #body-section {
-    background-color: var(--website-bright);
+    background-color: var(--website-medium);
     padding-top: 25px;
     padding-bottom: 25px;
 }
@@ -212,15 +213,28 @@ ul {
     padding: 15px;
 }
 
-.text-body-large {
+/* BODY - PROGRAMS */
+
+.programs-title-text {
     color: var(--text-background);
     font-size: 30px;
 }
 
-/* BODY - PROGRAMS */
+.program-base {
+    background: var(--website-dark);
+    padding: 5px;
+    margin: 15px;
+}
+
+.program-card {
+    background: var(--website-medium);
+    margin-left: 15px;
+    margin-right: 15px;
+    margin: 30px;
+}
 
 .program-info {
-    padding: 5px;
+    padding: 15px;
 }
 
 .program-icon {
@@ -235,65 +249,10 @@ ul {
     font-size: 25px;
 }
 
-.adobe-creative-suite {
-    background: var(--website-dark);
-    padding: 5px;
-    margin: 15px;
-}
-
-.adobe-photoshop {
-    background: var(--website-bright);
-    padding: 25px;
-    margin: 15px;
-}
-
-.adobe-premiere-pro {
-    background: var(--website-bright);
-    padding: 25px;
-    margin: 15px;
-}
-
-.adobe-after-effects {
-    background: var(--website-bright);
-    padding: 25px;
-    margin: 15px;
-}
-
-.adobe-audition {
-    background: var(--website-bright);
-    padding: 25px;
-    margin: 15px;
-}
-
-.google-workspace {
-    background: var(--website-dark);
-    padding: 5px;
-    margin: 15px;
-}
-
-.google-docs {
-    background: var(--website-bright);
-    padding: 25px;
-    margin: 15px;
-}
-
-.google-slides {
-    background: var(--website-bright);
-    padding: 25px;
-    margin: 15px;
-}
-
-.google-forms {
-    background: var(--website-bright);
-    padding: 25px;
-    margin: 15px;
-}
-
-.google-sheets {
-    background: var(--website-bright);
-    padding: 25px;
-    margin: 15px;
-}
+.program-description {
+    background: var(--website-light);
+    padding: 15px;
+}  
 
 /* FOOTER */
 
