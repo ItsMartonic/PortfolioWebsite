@@ -212,9 +212,71 @@ ul {
     padding: 15px;
 }
 
-.text-body-main {
+.text-body-large {
     color: var(--text-background);
     font-size: 30px;
+}
+
+/* BODY - PROGRAMS */
+
+.adobe-creative-suite {
+    background: var(--website-dark);
+    padding: 5px;
+    margin: 15px;
+}
+
+.adobe-photoshop {
+    background: var(--website-bright);
+    padding: 25px;
+    margin: 15px;
+}
+
+.adobe-premiere-pro {
+    background: var(--website-bright);
+    padding: 25px;
+    margin: 15px;
+}
+
+.adobe-after-effects {
+    background: var(--website-bright);
+    padding: 25px;
+    margin: 15px;
+}
+
+.adobe-audition {
+    background: var(--website-bright);
+    padding: 25px;
+    margin: 15px;
+}
+
+.google-workspace {
+    background: var(--website-dark);
+    padding: 5px;
+    margin: 15px;
+}
+
+.google-docs {
+    background: var(--website-bright);
+    padding: 25px;
+    margin: 15px;
+}
+
+.google-slides {
+    background: var(--website-bright);
+    padding: 25px;
+    margin: 15px;
+}
+
+.google-forms {
+    background: var(--website-bright);
+    padding: 25px;
+    margin: 15px;
+}
+
+.google-sheets {
+    background: var(--website-bright);
+    padding: 25px;
+    margin: 15px;
 }
 
 /* FOOTER */
