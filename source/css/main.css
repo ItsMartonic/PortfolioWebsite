@@ -219,6 +219,22 @@ ul {
 
 /* BODY - PROGRAMS */
 
+.program-info {
+    padding: 5px;
+}
+
+.program-icon {
+    vertical-align: middle;
+    padding-right: 20px;
+    height: 50px;
+    width: 50px;
+}
+
+.program-title {
+    vertical-align: middle;
+    font-size: 25px;
+}
+
 .adobe-creative-suite {
     background: var(--website-dark);
     padding: 5px;
