@@ -5,6 +5,9 @@ tempStyle.innerHTML = "html, body { overflow: hidden; }";
 document.getElementsByTagName("head")[0].appendChild(tempStyle);
 
 $(window).on("load",function(){
-    $(".preloader-container").delay(1500).fadeOut(1500);
+    var min = 1000, max = 5000;
+    var delay = Math.floor(Math.random() * (max - min) + min);
+    var fadeout = 1500;
+    $(".preloader-container").delay(delay).fadeOut(fadeout);
     tempStyle.parentNode.removeChild(tempStyle);
 });
