@@ -11,3 +11,5 @@ $(window).on("load",function(){
     $(".preloader-container").delay(delay).fadeOut(fadeout);
     tempStyle.parentNode.removeChild(tempStyle);
 });
+
+// HIDE YOUTUBE EMBED & SCROLLBAR IN PRELOADER
