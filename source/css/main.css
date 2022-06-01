@@ -132,12 +132,7 @@ body {
 
 .text-title-main {
     color: var(--text-background);
-    font-size: 65px;
-}
-
-.text-title-other {
-    color: var(--text-background);
-    font-size: 35px;
+    font-size: 5vw;
 }
 
 .navigation-header {
@@ -171,7 +166,7 @@ ul {
     text-align: center;
     list-style: none;
     display: block;
-    font-size: 20px;
+    font-size: 1.5vw;
 	transition: 0.3s;
 }
 
@@ -207,17 +202,56 @@ ul {
 .body-container {
     text-align: center;
     color: var(--text-background);
-    font-size: 17.5px;
+    font-size: 15px;
     margin: auto;
     width: 50%;
     padding: 15px;
+}
+
+.example-picture {
+    max-width: 100%;
+    height: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.youtube-embed {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.youtube-embed iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+a:link {
+    color: var(--text-background);
+}
+
+a:visited {
+    color: var(--text-background);
+}
+
+a:hover {
+    color: var(--text-hover);
+}
+
+a:active {
+    color: var(--text-hover);
 }
 
 /* BODY - PROGRAMS */
 
 .programs-title-text {
     color: var(--text-background);
-    font-size: 35px;
+    font-size: 3vw;
 }
 
 .program-base {
@@ -248,29 +282,15 @@ ul {
 
 .program-title {
     vertical-align: middle;
-    font-size: 25px;
+    font-size: 2vw;
 }
 
 .program-description {
     background: var(--website-light);
     padding: 15px;
-}  
-
-.youtube-embed {
-    position: relative;
-    padding-bottom: 56.25%;
-    height: 0;
 }
 
-.youtube-embed iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
-
-.disclaimer {
+.program-disclaimer {
     padding: 5px;
 }
 
@@ -279,7 +299,7 @@ ul {
 .footer-container {
     text-align: center;
     color: var(--text-background);
-    font-size: 12.5px;
+    font-size: 1.5vw;
     margin: auto;
     width: 50%;
     padding: 15px;
