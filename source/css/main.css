@@ -222,8 +222,10 @@ ul {
 
 .program-base {
     background: var(--website-dark);
-    padding: 15px;
-    margin: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 .program-card {
