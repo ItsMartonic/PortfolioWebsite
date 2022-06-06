@@ -205,7 +205,8 @@ ul {
     font-size: 15px;
     margin: auto;
     width: 50%;
-    padding: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 
 .example-picture {
@@ -264,13 +265,11 @@ a:active {
 
 .program-card {
     background: var(--website-medium);
-    margin-left: 15px;
-    margin-right: 15px;
-    margin: 30px;
+    margin: 10px;
 }
 
 .program-info {
-    padding: 15px;
+    padding: 10px;
 }
 
 .program-icon {
