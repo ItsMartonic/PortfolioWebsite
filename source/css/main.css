@@ -88,6 +88,19 @@ body {
     background: var(--scrollbar-hover);
 }
 
+.scroll-top {
+    position: fixed;
+    cursor: pointer;
+    bottom: 1rem;
+    right: 1rem;
+    font-size: 3vw;
+    color: var(--text-background);
+}
+
+.scroll-top:hover {
+    color: var(--text-hover);
+}
+
 /* THEMATIC BREAK */
 
 .thematic-break {
