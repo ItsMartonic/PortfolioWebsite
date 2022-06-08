@@ -100,6 +100,7 @@ body {
 
 .scroll-top:hover {
     color: var(--text-hover);
+    transition: 0.3s;
 }
 
 /* THEMATIC BREAK */
@@ -170,6 +171,7 @@ ul {
 
 .navigation-logo {
     text-align: center;
+    width: 65px;
     height: 65px;
 }
 
@@ -221,6 +223,11 @@ ul {
     width: 50%;
     padding-top: 15px;
     padding-bottom: 15px;
+}
+
+.text-title {
+    color: var(--text-background);
+    font-size: 3vw;
 }
 
 .example-picture {
@@ -289,8 +296,8 @@ a:active {
 .program-icon {
     vertical-align: middle;
     padding-right: 20px;
-    height: 50px;
-    width: 50px;
+    max-width: 10%;
+    height: auto;
 }
 
 .program-title {
@@ -329,5 +336,7 @@ a:active {
 }
 
 .footer-icon {
-    height: 50px;
+    max-width: 25%;
+    height: auto;
+    padding: 10px;
 }
