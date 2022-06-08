@@ -7,7 +7,6 @@ document.getElementsByTagName("head")[0].appendChild(tempStyle);
 $(window).on("load",function(){
     $(".scroll-top").fadeOut(1);
     $(".preloader-container").fadeOut(500);
-    
     tempStyle.parentNode.removeChild(tempStyle);
 });
 
