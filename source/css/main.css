@@ -89,6 +89,7 @@ body {
 }
 
 .scroll-top {
+    display: none;
     position: fixed;
     cursor: pointer;
     bottom: 1rem;
