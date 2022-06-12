@@ -225,6 +225,17 @@ ul {
     padding-bottom: 15px;
 }
 
+.flexbox-row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.flexbox-column {
+    flex: 50%;
+    padding: 5px;
+}
+
 .text-title {
     color: var(--text-background);
     font-size: 3vw;
