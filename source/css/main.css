@@ -221,8 +221,8 @@ ul {
     font-size: 15px;
     margin: auto;
     width: 50%;
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 .flexbox-row {
@@ -244,8 +244,8 @@ ul {
 .example-picture {
     max-width: 100%;
     height: auto;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     transition: transform 0.25s ease;
 }
 
