@@ -244,8 +244,13 @@ ul {
 .example-picture {
     max-width: 100%;
     height: auto;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    transition: transform 0.25s ease;
+}
+
+.example-picture:hover {
+    transform: scale(1.5);
 }
 
 .youtube-embed {
