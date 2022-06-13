@@ -94,7 +94,7 @@ body {
     cursor: pointer;
     bottom: 1rem;
     right: 1rem;
-    font-size: 3vw;
+    font-size: 3.5vw;
     color: var(--text-background);
 }
 
@@ -182,7 +182,7 @@ ul {
     text-align: center;
     list-style: none;
     display: block;
-    font-size: 1.5vw;
+    font-size: 1.75vw;
 	transition: 0.3s;
 }
 
@@ -289,7 +289,7 @@ a:active {
 
 .programs-title-text {
     color: var(--text-background);
-    font-size: 3vw;
+    font-size: 3.5vw;
 }
 
 .program-base {
@@ -318,12 +318,12 @@ a:active {
 
 .program-title {
     vertical-align: middle;
-    font-size: 2vw;
+    font-size: 2.5vw;
 }
 
 .program-description {
     background: var(--website-light);
-    padding: 15px;
+    padding: 10px;
 }
 
 .program-disclaimer {
@@ -335,7 +335,7 @@ a:active {
 .footer-container {
     text-align: center;
     color: var(--text-background);
-    font-size: 1.5vw;
+    font-size: 1.75vw;
     margin: auto;
     width: 50%;
     padding: 15px;
