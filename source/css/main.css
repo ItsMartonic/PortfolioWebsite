@@ -241,6 +241,11 @@ ul {
     font-size: 3vw;
 }
 
+.circle-logo {
+    max-width: 100%;
+    height: auto;
+}
+
 .example-picture {
     max-width: 100%;
     height: auto;
