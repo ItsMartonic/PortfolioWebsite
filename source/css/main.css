@@ -111,7 +111,6 @@ body {
     border: 0;
     border-top: 3px solid var(--thematic-break);
     margin: 2em 0;
-    padding: 0;
 }
 
 /* SECTIONS */
@@ -121,19 +120,19 @@ body {
     background-size: cover;
     background-color: var(--website-dark);
     box-shadow: inset 0px 0px 25px 0px var(--website-dark);
-    padding-bottom: 25px;
+    padding-bottom: 5px;
 }
 
 #body-section {
     background-color: var(--website-medium);
-    padding-top: 25px;
-    padding-bottom: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 #footer-section {
     background-color: var(--website-dark);
-    padding-top: 25px;
-    padding-bottom: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 /* HEADER */
@@ -142,7 +141,7 @@ body {
     text-align: center;
     margin: auto;
     width: 50%;
-    padding: 15px;
+    padding: 5px;
 }
 
 .text-title-main {
@@ -249,8 +248,8 @@ ul {
 .example-picture {
     max-width: 100%;
     height: auto;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     transition: transform 0.25s ease;
 }
 
@@ -262,8 +261,8 @@ ul {
     position: relative;
     padding-bottom: 56.25%;
     height: 0;
-    margin-top: 5px;
-    margin-bottom: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     transition: transform 0.25s ease;
 }
 
@@ -283,8 +282,8 @@ ul {
     position: relative;
     padding-bottom: 56.25%;
     height: 0;
-    margin-top: 5px;
-    margin-bottom: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .google-docs-embed iframe {
@@ -320,10 +319,8 @@ a:active {
 
 .program-base {
     background: var(--website-dark);
-    padding-top: 10px;
+    padding-top: 5px;
     padding-bottom: 5px;
-    margin-top: 10px;
-    margin-bottom: 5px;
 }
 
 .program-card {
@@ -332,7 +329,7 @@ a:active {
 }
 
 .program-info {
-    padding: 10px;
+    padding: 5px;
 }
 
 .program-icon {
@@ -349,7 +346,7 @@ a:active {
 
 .program-description {
     background: var(--website-light);
-    padding: 10px;
+    padding: 5px;
 }
 
 .program-disclaimer {
@@ -364,7 +361,7 @@ a:active {
     font-size: 1.75vw;
     margin: auto;
     width: 50%;
-    padding: 15px;
+    padding: 5px;
 }
 
 .footer-padding {
@@ -380,5 +377,4 @@ a:active {
 .footer-icon {
     max-width: 20%;
     height: auto;
-    padding: 10px;
 }
