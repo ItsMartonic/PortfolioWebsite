@@ -259,6 +259,11 @@ ul {
     height: 0;
     margin-top: 5px;
     margin-bottom: 5px;
+    transition: transform 0.25s ease;
+}
+
+.youtube-embed:hover {
+    transform: scale(1.5);
 }
 
 .youtube-embed iframe {
